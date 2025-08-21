@@ -1,0 +1,4 @@
+derivbot_env/
+*.pyc
+__pycache__/
+deriv_full_bot.log
